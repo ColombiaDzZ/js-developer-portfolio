@@ -1,40 +1,35 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Marcos Vinicios",
+  "photo": "https://avatars.githubusercontent.com/u/157557169?s=400&u=d3fce7db5e46c021102eb30e45753dd60129c0f9&v=4",
+  "job": "Developer Web Full - Stack",
+  "location": "Goiás - BR",
+  "phone": "(62) 99338-4677",
+  "email": "colombiadeveloperweb@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Lua",
+        "logo": "https://cdn.discordapp.com/attachments/819376669168631808/1211616465023803392/20240226_070732.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JavaScript",
+        "logo": "https://cdn.discordapp.com/attachments/819376669168631808/1211613761044221962/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "HTML5",
+        "logo": "https://cdn.discordapp.com/attachments/819376669168631808/1211615647763791942/html.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "CSS3",
+        "logo": "https://cdn.discordapp.com/attachments/819376669168631808/1211905618017919006/css.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "XML",
+        "logo": "https://cdn.discordapp.com/attachments/819376669168631808/1211906801411301416/xml.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +37,29 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (pouco)",
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/ColombiaDzZ/Pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto alternativo da interface do spotify",
+      "url": "https://github.com/ColombiaDzZ/Spotify-Projetc-NUI",
       "github": true
-    }
-  ],
-  "professionalExperience": [
-    {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Menu de Limpeza e Otimização de computador em .BAT",
+      "url": "https://github.com/ColombiaDzZ/MenuOptimization",
+      "github": true
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Mini game simples no Roblox",
+      "url": "https://github.com/ColombiaDzZ/Roblox-Farm",
+      "github": true
     }
   ]
 }
